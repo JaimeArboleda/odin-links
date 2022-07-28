@@ -2,6 +2,7 @@
 
 ## Meta - Documentation
 * Very [complete and updated documentation](https://devdocs.io/) of everything related to web development
+* How browsers [work](https://web.dev/howbrowserswork/)
 
 ## Ubuntu 
 * How to configure [dual boot](https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/)
@@ -26,6 +27,7 @@
 
 ## CSS
 * [CSS Basics](https://www.theodinproject.com/lessons/foundations-css-foundations)
+* Very good [series on Modern CSS](https://moderncss.dev/)
 * [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 * [CSS inline and block](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
 * [Flex Box tutorial on Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
@@ -34,6 +36,17 @@
 * [Rules of precedence](https://wattenberger.com/blog/css-cascade) in CSS (aka CSS cascade)
 * [Mozilla Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * [Meyer Reset](https://meyerweb.com/eric/tools/css/reset/). A set of CSS defaults that ensures all browsers will display the same
+* [CSS Properties](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-more-css-properties)
+* [Advanced Reference for CSS Selectors](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-advanced-selectors)
+* [All about floats](https://css-tricks.com/all-about-floats/)
+* [HTML and CSS book](https://learn.shayhowe.com/advanced-html-css/). Good [chapter](https://learn.shayhowe.com/advanced-html-css/complex-selectors/) about selectors
+* References about positioning: [one](https://developer.mozilla.org/en-US/docs/Web/CSS/position) and [two](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/)
+* [Funcions reference](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Functions) and [how to use them for sizing](https://web.dev/i18n/en/min-max-clamp/)
+* [CSS Variables](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-custom-properties)
+* [CSS Tailwind Framework](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
+* [Intro to Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms#introductory_guides), [more on forms]( https://developer.mozilla.org/en-US/docs/Learn/Forms#the_different_form_controls) and [styling forms]( https://developer.mozilla.org/en-US/docs/Learn/Forms#form_styling_guides)
+* [Client form validations](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation) and [advice on validations](https://css-tricks.com/form-validation-ux-html-css). 
+
 
 ## JavaScript
 * Very good [online free book](https://javascript.info/) about JavaScript
