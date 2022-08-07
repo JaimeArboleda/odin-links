@@ -28,6 +28,7 @@
 ## CSS
 * [CSS Basics](https://www.theodinproject.com/lessons/foundations-css-foundations)
 * Very good [series on Modern CSS](https://moderncss.dev/)
+* [Learn CSS: the pedantic way](http://book.mixu.net/css/)
 * [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 * [CSS inline and block](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
 * [Flex Box tutorial on Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
@@ -35,6 +36,8 @@
 * [Flex Box grow and shrink](https://css-tricks.com/understanding-flex-grow-flex-shrink-and-flex-basis/)
 * [Rules of precedence](https://wattenberger.com/blog/css-cascade) in CSS (aka CSS cascade)
 * [Mozilla Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [CSS Units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
+
 * [Meyer Reset](https://meyerweb.com/eric/tools/css/reset/). A set of CSS defaults that ensures all browsers will display the same
 * [CSS Properties](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-more-css-properties)
 * [Advanced Reference for CSS Selectors](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-advanced-selectors)
@@ -46,6 +49,7 @@
 * [CSS Tailwind Framework](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
 * [Intro to Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms#introductory_guides), [more on forms]( https://developer.mozilla.org/en-US/docs/Learn/Forms#the_different_form_controls) and [styling forms]( https://developer.mozilla.org/en-US/docs/Learn/Forms#form_styling_guides)
 * [Client form validations](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation) and [advice on validations](https://css-tricks.com/form-validation-ux-html-css). 
+* [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/). The nice [flexible grid](https://css-tricks.com/books/greatest-css-tricks/flexible-grids/). Other [useful advanced link](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-advanced-grid-properties)
 
 
 ## JavaScript
